@@ -1,7 +1,7 @@
 
 # PRINCE-MDXI WhatsApp Bot 🌝💚
 
-![Bot Image](https://files.catbox.moe/kzfne8.jpeg)
+![Bot Image](https://files.catbox.moe/kju566)
 
 **Simple and Best WhatsApp Bot Created by [PRINCE MAYEL](https://github.com/mayelprince)**
 
